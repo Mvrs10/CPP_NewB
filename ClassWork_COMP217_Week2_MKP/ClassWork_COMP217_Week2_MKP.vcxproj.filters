@@ -36,6 +36,9 @@
     <ClCompile Include="TicTacToe_Classes_MKP.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ClassWork_COMP217_Week5_MKP.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ClassWork_COMP217_Week1_MKP.h">
@@ -54,6 +57,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="TicTacToe_Classes_MKP.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassWork_COMP217_Week5_MKP.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

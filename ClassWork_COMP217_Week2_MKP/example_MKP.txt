@@ -1,0 +1,6 @@
+Hello, File I/O in CPP! It's me MKP!
+2nd LINE MKP
+LAST LINE
+WORLD, File I/O in CPP! It's me MKP!
+4nd LINE MKP
+5th LINE

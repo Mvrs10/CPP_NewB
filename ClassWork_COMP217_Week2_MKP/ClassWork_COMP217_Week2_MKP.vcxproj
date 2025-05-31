@@ -127,6 +127,7 @@
     <ClCompile Include="ClassWork_COMP217_Week2_MKP.cpp" />
     <ClCompile Include="ClassWork_COMP217_Week3_MKP.cpp" />
     <ClCompile Include="ClassWork_COMP217_Week4_MKP.cpp" />
+    <ClCompile Include="ClassWork_COMP217_Week5_MKP.cpp" />
     <ClCompile Include="Main_MKP.cpp" />
     <ClCompile Include="TicTacToe_Classes_MKP.cpp" />
     <ClCompile Include="TicTacToe_Pointers_MKP.cpp" />
@@ -136,6 +137,7 @@
     <ClInclude Include="ClassWork_COMP217_Week2_MKP.h" />
     <ClInclude Include="ClassWork_COMP217_Week3_MKP.h" />
     <ClInclude Include="ClassWork_COMP217_Week4_MKP.h" />
+    <ClInclude Include="ClassWork_COMP217_Week5_MKP.h" />
     <ClInclude Include="TicTacToe_Classes_MKP.h" />
     <ClInclude Include="TicTacToe_Pointers_MKP.h" />
   </ItemGroup>
