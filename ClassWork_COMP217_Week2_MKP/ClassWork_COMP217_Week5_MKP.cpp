@@ -2,9 +2,10 @@
 #include <iostream>
 #include <fstream>
 #include <string>
+#include <iomanip>
 using namespace std;
-
-int FileIO() {
+// Basic FileIO
+static int FileIO() {
     std::string filename = "example_MKP.txt";
 
     // 1. Write to example_MKP.txt
@@ -47,9 +48,50 @@ int FileIO() {
     }
     return 0;
 }
+// Binary I/O
+struct Player {
+    int id;
+    char name[20];
+    char email[40];
+    int age;
+    int level;
+    double currency;
+};
 
+static int BinaryIO() {
+    const char* filename = "NewPlayer.data";
+    Player p1 = { 1, "MKP", "mkp@email.com", 20, 100, 1234.56789 }; // Make a player
+    // Write player data
+    std::ofstream outFile(filename, std::ios::binary);
+    if (outFile) {
+        outFile.write(reinterpret_cast<char*>(&p1), sizeof(p1));
+        outFile.close();
+        cout << "Player1 data written to binary file - ID: " << p1.id << endl;
+    }
+    else {
+        std::cerr << "Failed to open B-file for writing." << endl;
+    }
+    // Read the Player back from the binary file
+    Player p2;
+    std::ifstream inFile(filename, std::ios::binary);
+    if (inFile) {
+        inFile.read(reinterpret_cast<char*>(&p2), sizeof(p2));
+        inFile.close();
+        cout << "Read player info from binary file" << endl;
+        cout << "ID: " << p2.id << ", Name: " << p2.name
+            << ", Email: " << p2.email << ", Age: " << p2.age
+            << ", Level: " << p2.level
+            << ", Currency: $" << std::setprecision(2) << std::fixed << p2.currency << endl;
+    }
+    else {
+        cerr << "Failed to open B-file for reading." << endl;
+    }
+    return 0;
+}
+// Pipeline
 int ClassWork_COMP217_Week5_MKP() {
 	int result;
-    result = FileIO();
+    //result = FileIO();
+    result = BinaryIO();
 	return result;
 }
