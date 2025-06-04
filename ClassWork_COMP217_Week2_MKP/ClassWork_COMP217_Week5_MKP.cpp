@@ -88,10 +88,14 @@ static int BinaryIO() {
     }
     return 0;
 }
+
 // Pipeline
 int ClassWork_COMP217_Week5_MKP() {
 	int result;
+    // File IO
     //result = FileIO();
+    // Binary IO
     result = BinaryIO();
+    // Stream IO
 	return result;
 }
