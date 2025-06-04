@@ -2,10 +2,19 @@
 #include <iostream>
 #include <fstream>
 #include <string>
-#include <iomanip>
+#include <iomanip> // req. for stream io
+#include <memory> // req. for smart pointers
 using namespace std;
+
+static int FileIO();
+static int BinaryIO();
+static int TextFile_ErrorHandlingIO();
+static int StreamIO();
+static int SmartPointers();
+static int SmartPointers_with_memory_leak();
+static int SmartPointers_without_memory_leak();
 // Basic FileIO
-static int FileIO() {
+int FileIO() {
     std::string filename = "example_MKP.txt";
 
     // 1. Write to example_MKP.txt
@@ -58,7 +67,7 @@ struct Player {
     double currency;
 };
 
-static int BinaryIO() {
+int BinaryIO() {
     const char* filename = "NewPlayer.data";
     Player p1 = { 1, "MKP", "mkp@email.com", 20, 100, 1234.56789 }; // Make a player
     // Write player data
@@ -89,13 +98,150 @@ static int BinaryIO() {
     return 0;
 }
 
+// Error Handling
+int TextFile_ErrorHandlingIO() {
+    // TODO
+    std::string filename = "nonexistent_file_MKP.txt";
+    std::ifstream file(filename);
+    if (!file) {
+        std::cerr << "Error: Could not open file '" << filename << "' for reading.\n";
+        if (file.fail()) std::cerr << "Reason: Stream failed to open (failbit).\n";
+        if (file.bad()) std::cerr << "Reason: I/O error (badbit).\n";
+        return 1;
+    }
+    std::string line;
+    while (std::getline(file, line)) {
+        std::cout << line << '\n';
+    }
+    if (file.eof()) {
+        std::cout << "End of file reached.\n";
+    }
+    else if (file.fail()) {
+        std::cerr << "Read error occurred.\n";
+    }
+    file.close();
+
+    return 0;
+}
+
+// Stream IO
+int StreamIO() {
+    // TODO
+    std::string name;
+    int age;
+    double balance;
+    // Standard input using cin
+    std::cout << "Enter your name: ";
+    std::cin >> name;
+    std::cout << "Enter your age: ";
+    std::cin >> age;
+    std::cout << "Enter your account balance: ";
+    std::cin >> balance;
+    // Output using cout
+    std::cout << "\n--- User Info ---\n";
+    std::cout << "Name: " << name << "\n";
+    std::cout << "Age: " << age << "\n";
+    // Using I/O manipulators
+    std::cout << std::fixed << std::setprecision(2); // 2 decimal places
+    std::cout << "Balance: $" << balance << "\n";
+    // Output to standard error using cerr
+    if (age < 0 || balance < 0) {
+        std::cerr << "Error: Invalid input values.\n";
+    }
+    // Logging or diagnostic messages using clog
+    std::clog << "Program executed with name: " << name << "\n";
+    return 0;
+}
+
+// Obj for smartpointer
+class MyClass {
+public:
+    MyClass(int value) : value(value) {
+        std::cout << "MyClass(" << value << ") constructed\n";
+    }
+    ~MyClass() {
+        std::cout << "MyClass(" << value << ") destroyed\n";
+    }
+    void show() {
+        std::cout << "Value = " << value << "\n";
+    }
+private:
+    int value;
+};
+// Smart Pointers
+int SmartPointers() {
+    // TODO
+    cout << "Testing std::unique_ptr" << endl;
+    {
+        MyClass* pMyClass = new MyClass(5);
+        MyClass* pMyClass2 = pMyClass;
+        pMyClass->show();
+        delete pMyClass;
+
+        std::unique_ptr<MyClass> uPtr = std::make_unique<MyClass>(10);
+        uPtr->show();
+        //std::unique_ptr<MyClass> uPtr2 = uPtr; // compiler error due to uniqueness
+        std::unique_ptr<MyClass> uPtr2 = std::move(uPtr);
+        if (!uPtr) {
+            cout << "uPtr is nullPtrl after transfer ownership" << endl;
+        }
+    }
+    return 0;
+}
+class B; // Forward declaration
+class A {
+public:
+    std::shared_ptr< B > ptrB;
+    ~A() { std::cout << "A destroyed\n"; }
+};
+class B {
+public:
+    std::shared_ptr< A > ptrA; // Creates a cycle
+    ~B() { std::cout << "B destroyed\n"; }
+};
+
+int SmartPointers_with_memory_leak() {
+    // TODO
+    std::shared_ptr< A > a = std::make_shared< A >();
+    std::shared_ptr< B > b = std::make_shared< B >();
+    a->ptrB = b;
+    b->ptrA = a; // Cycle created in reference!!!!!!
+    cout << "End of scope - OBJECTS ARE NOT DESTROYED - MEMORY LEAK" << endl;
+    return 0;
+}
+
+
+class B2; // Forward declaration
+class A2 {
+public:
+    std::shared_ptr< B2 > ptrB2;
+    ~A2() { std::cout << "A2 destroyed\n"; }
+};
+class B2 {
+public:
+    std::weak_ptr< A2 > ptrA2; // Does not create ref count -> BREAKING THE ENDLESS CYCLE
+    ~B2() { std::cout << "B2 destroyed\n"; }
+};
+
+int SmartPointers_without_memory_leak() {
+    // TODO
+    std::shared_ptr< A2 > a2 = std::make_shared< A2 >();
+    std::shared_ptr< B2 > b2 = std::make_shared< B2 >();
+    a2->ptrB2 = b2;
+    b2->ptrA2 = a2; // No cycle now
+    cout << "End of scope" << endl;
+    return 0;
+}
+
 // Pipeline
 int ClassWork_COMP217_Week5_MKP() {
-	int result;
-    // File IO
+    int result;
     //result = FileIO();
-    // Binary IO
-    result = BinaryIO();
-    // Stream IO
-	return result;
+    //result = BinaryIO();
+    //result = TextFile_ErrorHandlingIO();
+    //result = StreamIO();
+    //result = SmartPointers();
+    //result = SmartPointers_with_memory_leak();
+    result = SmartPointers_without_memory_leak();
+    return result;
 }
