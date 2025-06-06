@@ -7,6 +7,7 @@
 #include "TicTacToe_Pointers_MKP.h"
 #include "TicTacToe_Classes_MKP.h"
 #include "ClassWork_COMP217_Week5_MKP.h"
+#include "ClassWork_COMP217_Week6_MKP.h"
 using namespace std;
 int main()
 {
@@ -18,7 +19,8 @@ int main()
 		//result = TicTacToe_Pointers_MKP();
 		//result = ClassWork_COMP217_Week4_MKP();
 		//result = TicTacToe_Classes_MKP();
-		result = ClassWork_COMP217_Week5_MKP();
+		//result = ClassWork_COMP217_Week5_MKP();
+		result = ClassWork_COMP217_Week6_MKP();
 	}
 	catch (const exception& e) {
 		result = 1;

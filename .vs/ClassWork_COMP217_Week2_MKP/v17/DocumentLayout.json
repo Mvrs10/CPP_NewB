@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ALIEN\\source\\repos\\ClassWork_COMP217_Week2_MKP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C7707FD-4584-4E9C-8EA0-4F627B54B3CE}|ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week2_MKP.vcxproj|C:\\Users\\ALIEN\\source\\repos\\ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week5_MKP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5C7707FD-4584-4E9C-8EA0-4F627B54B3CE}|ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week2_MKP.vcxproj|solutionrelative:ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week5_MKP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5C7707FD-4584-4E9C-8EA0-4F627B54B3CE}|ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week2_MKP.vcxproj|C:\\Users\\ALIEN\\source\\repos\\ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week2_MKP\\Main_MKP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5C7707FD-4584-4E9C-8EA0-4F627B54B3CE}|ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week2_MKP.vcxproj|solutionrelative:ClassWork_COMP217_Week2_MKP\\Main_MKP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C7707FD-4584-4E9C-8EA0-4F627B54B3CE}|ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week2_MKP.vcxproj|C:\\Users\\ALIEN\\source\\repos\\ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week6_MKP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C7707FD-4584-4E9C-8EA0-4F627B54B3CE}|ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week2_MKP.vcxproj|solutionrelative:ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week6_MKP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C7707FD-4584-4E9C-8EA0-4F627B54B3CE}|ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week2_MKP.vcxproj|C:\\Users\\ALIEN\\source\\repos\\ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week6_MKP.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C7707FD-4584-4E9C-8EA0-4F627B54B3CE}|ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week2_MKP.vcxproj|solutionrelative:ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week6_MKP.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C7707FD-4584-4E9C-8EA0-4F627B54B3CE}|ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week2_MKP.vcxproj|C:\\Users\\ALIEN\\source\\repos\\ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week5_MKP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C7707FD-4584-4E9C-8EA0-4F627B54B3CE}|ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week2_MKP.vcxproj|solutionrelative:ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week5_MKP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C7707FD-4584-4E9C-8EA0-4F627B54B3CE}|ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week2_MKP.vcxproj|C:\\Users\\ALIEN\\source\\repos\\ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week3_MKP.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -42,24 +50,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Main_MKP.cpp",
               "DocumentMoniker": "C:\\Users\\ALIEN\\source\\repos\\ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week2_MKP\\Main_MKP.cpp",
               "RelativeDocumentMoniker": "ClassWork_COMP217_Week2_MKP\\Main_MKP.cpp",
               "ToolTip": "C:\\Users\\ALIEN\\source\\repos\\ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week2_MKP\\Main_MKP.cpp",
               "RelativeToolTip": "ClassWork_COMP217_Week2_MKP\\Main_MKP.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-15T01:53:41.383Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ClassWork_COMP217_Week3_MKP.h",
               "DocumentMoniker": "C:\\Users\\ALIEN\\source\\repos\\ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week3_MKP.h",
               "RelativeDocumentMoniker": "ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week3_MKP.h",
@@ -72,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "ClassWork_COMP217_Week3_MKP.cpp",
               "DocumentMoniker": "C:\\Users\\ALIEN\\source\\repos\\ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week3_MKP.cpp",
               "RelativeDocumentMoniker": "ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week3_MKP.cpp",
@@ -85,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "TicTacToe_Pointers_MKP.cpp",
               "DocumentMoniker": "C:\\Users\\ALIEN\\source\\repos\\ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week2_MKP\\TicTacToe_Pointers_MKP.cpp",
               "RelativeDocumentMoniker": "ClassWork_COMP217_Week2_MKP\\TicTacToe_Pointers_MKP.cpp",
@@ -98,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ClassWork_COMP217_Week4_MKP.h",
               "DocumentMoniker": "C:\\Users\\ALIEN\\source\\repos\\ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week4_MKP.h",
               "RelativeDocumentMoniker": "ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week4_MKP.h",
@@ -111,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ClassWork_COMP217_Week4_MKP.cpp",
               "DocumentMoniker": "C:\\Users\\ALIEN\\source\\repos\\ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week4_MKP.cpp",
               "RelativeDocumentMoniker": "ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week4_MKP.cpp",
@@ -124,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "TicTacToe_Classes_MKP.cpp",
               "DocumentMoniker": "C:\\Users\\ALIEN\\source\\repos\\ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week2_MKP\\TicTacToe_Classes_MKP.cpp",
               "RelativeDocumentMoniker": "ClassWork_COMP217_Week2_MKP\\TicTacToe_Classes_MKP.cpp",
@@ -137,13 +146,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ClassWork_COMP217_Week5_MKP.cpp",
               "DocumentMoniker": "C:\\Users\\ALIEN\\source\\repos\\ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week5_MKP.cpp",
               "RelativeDocumentMoniker": "ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week5_MKP.cpp",
               "ToolTip": "C:\\Users\\ALIEN\\source\\repos\\ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week5_MKP.cpp",
               "RelativeToolTip": "ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week5_MKP.cpp",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFIAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAIwLgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-31T22:05:03.465Z",
               "IsPinned": true,
@@ -156,6 +165,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassWork_COMP217_Week6_MKP.cpp",
+              "DocumentMoniker": "C:\\Users\\ALIEN\\source\\repos\\ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week6_MKP.cpp",
+              "RelativeDocumentMoniker": "ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week6_MKP.cpp",
+              "ToolTip": "C:\\Users\\ALIEN\\source\\repos\\ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week6_MKP.cpp",
+              "RelativeToolTip": "ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week6_MKP.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-06T02:34:23.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassWork_COMP217_Week6_MKP.h",
+              "DocumentMoniker": "C:\\Users\\ALIEN\\source\\repos\\ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week6_MKP.h",
+              "RelativeDocumentMoniker": "ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week6_MKP.h",
+              "ToolTip": "C:\\Users\\ALIEN\\source\\repos\\ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week6_MKP.h",
+              "RelativeToolTip": "ClassWork_COMP217_Week2_MKP\\ClassWork_COMP217_Week6_MKP.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-06T02:33:24.919Z",
+              "EditorCaption": ""
             }
           ]
         }
