@@ -16,3 +16,4 @@ obj/
 /.vs/ClassWork_COMP217_Week2_MKP/v17/ipch/AutoPCH/109c764cccb97f04/MAIN_MKP.ipch
 /NumberOf1Bits/x64/Debug
 /x64/Debug
+**/Debug/
