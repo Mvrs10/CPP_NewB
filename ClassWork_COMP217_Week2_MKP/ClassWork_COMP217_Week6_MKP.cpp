@@ -28,7 +28,7 @@ int ClassWork_COMP217_Week6_MKP() {
 	mis[3] = "Three";
 
 	cout << "Order map std::map." << endl;
-	for (auto kv : mis) {
+	for (auto& kv : mis) {
 		cout << "MIS key: " << kv.first << " - MIS value: " << kv.second << endl;
 	}
 	cout << endl;
@@ -42,7 +42,7 @@ int ClassWork_COMP217_Week6_MKP() {
 	umis[1] = "One RE_assigned";
 
 	cout << "Unordered map std::unordered_map" << endl;
-	for (auto kv : umis) {
+	for (auto& kv : umis) {
 		cout << "UMIS key: " << kv.first << " - UMIS value: " << kv.second << endl;
 	}
 	cout << endl;
