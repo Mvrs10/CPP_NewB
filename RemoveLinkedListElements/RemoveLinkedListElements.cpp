@@ -11,7 +11,7 @@ int main()
     head->next->next->next->next->next = new ListNode(5);
     head->next->next->next->next->next->next = new ListNode(6);
     
-    ListNode* result = removeElements(head);
+    ListNode* result = removeElements(head, 6);
 
     std::cout << result->val;
 }
