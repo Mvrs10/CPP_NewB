@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CountCompleteTreeNodes", "C
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ImplementAStackUsingQueue", "ImplementAStackUsingQueue\ImplementAStackUsingQueue.vcxproj", "{9029F80C-C884-4979-A625-73713AB3497E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PowerOfTwo", "PowerOfTwo\PowerOfTwo.vcxproj", "{D426F906-ED44-46BC-9C43-8354D207FEC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -121,6 +123,14 @@ Global
 		{9029F80C-C884-4979-A625-73713AB3497E}.Release|x64.Build.0 = Release|x64
 		{9029F80C-C884-4979-A625-73713AB3497E}.Release|x86.ActiveCfg = Release|Win32
 		{9029F80C-C884-4979-A625-73713AB3497E}.Release|x86.Build.0 = Release|Win32
+		{D426F906-ED44-46BC-9C43-8354D207FEC5}.Debug|x64.ActiveCfg = Debug|x64
+		{D426F906-ED44-46BC-9C43-8354D207FEC5}.Debug|x64.Build.0 = Debug|x64
+		{D426F906-ED44-46BC-9C43-8354D207FEC5}.Debug|x86.ActiveCfg = Debug|Win32
+		{D426F906-ED44-46BC-9C43-8354D207FEC5}.Debug|x86.Build.0 = Debug|Win32
+		{D426F906-ED44-46BC-9C43-8354D207FEC5}.Release|x64.ActiveCfg = Release|x64
+		{D426F906-ED44-46BC-9C43-8354D207FEC5}.Release|x64.Build.0 = Release|x64
+		{D426F906-ED44-46BC-9C43-8354D207FEC5}.Release|x86.ActiveCfg = Release|Win32
+		{D426F906-ED44-46BC-9C43-8354D207FEC5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

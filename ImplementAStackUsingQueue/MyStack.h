@@ -17,6 +17,14 @@ public:
 		std::swap(data, helper);
 	}
 
+	void pushWithoutHelper(int x) {
+		data.push(x);
+		for (int i = 0; i < data.size() - 1; i++) {
+			data.push(data.front());
+			data.pop();
+		}
+	}
+
 	int pop() {
 		int top = data.front();
 		data.pop();
