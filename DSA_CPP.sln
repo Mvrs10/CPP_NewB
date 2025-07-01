@@ -39,6 +39,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PalindromeLinkedList", "Pal
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ValidAnagram", "ValidAnagram\ValidAnagram.vcxproj", "{2FBC6B23-F831-48CC-929A-7ED9A53FC865}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FindTheOriginalTypedString1", "FindTheOriginalTypedString1\FindTheOriginalTypedString1.vcxproj", "{B9A28FA9-B85D-472B-9BF6-9CAF516EC80E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -191,6 +193,14 @@ Global
 		{2FBC6B23-F831-48CC-929A-7ED9A53FC865}.Release|x64.Build.0 = Release|x64
 		{2FBC6B23-F831-48CC-929A-7ED9A53FC865}.Release|x86.ActiveCfg = Release|Win32
 		{2FBC6B23-F831-48CC-929A-7ED9A53FC865}.Release|x86.Build.0 = Release|Win32
+		{B9A28FA9-B85D-472B-9BF6-9CAF516EC80E}.Debug|x64.ActiveCfg = Debug|x64
+		{B9A28FA9-B85D-472B-9BF6-9CAF516EC80E}.Debug|x64.Build.0 = Debug|x64
+		{B9A28FA9-B85D-472B-9BF6-9CAF516EC80E}.Debug|x86.ActiveCfg = Debug|Win32
+		{B9A28FA9-B85D-472B-9BF6-9CAF516EC80E}.Debug|x86.Build.0 = Debug|Win32
+		{B9A28FA9-B85D-472B-9BF6-9CAF516EC80E}.Release|x64.ActiveCfg = Release|x64
+		{B9A28FA9-B85D-472B-9BF6-9CAF516EC80E}.Release|x64.Build.0 = Release|x64
+		{B9A28FA9-B85D-472B-9BF6-9CAF516EC80E}.Release|x86.ActiveCfg = Release|Win32
+		{B9A28FA9-B85D-472B-9BF6-9CAF516EC80E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
