@@ -49,6 +49,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AddDigits", "AddDigits\AddD
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FindTheKthChararcterInStringGame1", "FindTheKthChararcterInStringGame1\FindTheKthChararcterInStringGame1.vcxproj", "{0FE97D0A-4F2D-4FD0-BD0D-F1182AE676EF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UglyNumber", "UglyNumber\UglyNumber.vcxproj", "{E845EA35-833A-4AC5-BF30-60FA55B039B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -241,6 +243,14 @@ Global
 		{0FE97D0A-4F2D-4FD0-BD0D-F1182AE676EF}.Release|x64.Build.0 = Release|x64
 		{0FE97D0A-4F2D-4FD0-BD0D-F1182AE676EF}.Release|x86.ActiveCfg = Release|Win32
 		{0FE97D0A-4F2D-4FD0-BD0D-F1182AE676EF}.Release|x86.Build.0 = Release|Win32
+		{E845EA35-833A-4AC5-BF30-60FA55B039B4}.Debug|x64.ActiveCfg = Debug|x64
+		{E845EA35-833A-4AC5-BF30-60FA55B039B4}.Debug|x64.Build.0 = Debug|x64
+		{E845EA35-833A-4AC5-BF30-60FA55B039B4}.Debug|x86.ActiveCfg = Debug|Win32
+		{E845EA35-833A-4AC5-BF30-60FA55B039B4}.Debug|x86.Build.0 = Debug|Win32
+		{E845EA35-833A-4AC5-BF30-60FA55B039B4}.Release|x64.ActiveCfg = Release|x64
+		{E845EA35-833A-4AC5-BF30-60FA55B039B4}.Release|x64.Build.0 = Release|x64
+		{E845EA35-833A-4AC5-BF30-60FA55B039B4}.Release|x86.ActiveCfg = Release|Win32
+		{E845EA35-833A-4AC5-BF30-60FA55B039B4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
