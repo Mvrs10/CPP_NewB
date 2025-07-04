@@ -53,6 +53,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UglyNumber", "UglyNumber\Ug
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MissingNumber", "MissingNumber\MissingNumber.vcxproj", "{2C5D72E0-595B-4E4F-9D32-9D1033980F70}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FindTheKthCharacterInStringGame2", "FindTheKthCharacterInStringGame2\FindTheKthCharacterInStringGame2.vcxproj", "{CE09E58A-9D22-4FC0-82E5-337B277F12F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -261,6 +263,14 @@ Global
 		{2C5D72E0-595B-4E4F-9D32-9D1033980F70}.Release|x64.Build.0 = Release|x64
 		{2C5D72E0-595B-4E4F-9D32-9D1033980F70}.Release|x86.ActiveCfg = Release|Win32
 		{2C5D72E0-595B-4E4F-9D32-9D1033980F70}.Release|x86.Build.0 = Release|Win32
+		{CE09E58A-9D22-4FC0-82E5-337B277F12F7}.Debug|x64.ActiveCfg = Debug|x64
+		{CE09E58A-9D22-4FC0-82E5-337B277F12F7}.Debug|x64.Build.0 = Debug|x64
+		{CE09E58A-9D22-4FC0-82E5-337B277F12F7}.Debug|x86.ActiveCfg = Debug|Win32
+		{CE09E58A-9D22-4FC0-82E5-337B277F12F7}.Debug|x86.Build.0 = Debug|Win32
+		{CE09E58A-9D22-4FC0-82E5-337B277F12F7}.Release|x64.ActiveCfg = Release|x64
+		{CE09E58A-9D22-4FC0-82E5-337B277F12F7}.Release|x64.Build.0 = Release|x64
+		{CE09E58A-9D22-4FC0-82E5-337B277F12F7}.Release|x86.ActiveCfg = Release|Win32
+		{CE09E58A-9D22-4FC0-82E5-337B277F12F7}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
