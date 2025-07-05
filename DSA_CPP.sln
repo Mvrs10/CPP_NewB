@@ -63,6 +63,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WordPattern", "WordPattern\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FindLuckyNumberInAnArray", "FindLuckyNumberInAnArray\FindLuckyNumberInAnArray.vcxproj", "{BDE0ED9A-80CC-48C7-B283-241D73C6FCF1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NimGame", "NimGame\NimGame.vcxproj", "{302F5D4D-499F-47BC-8E55-F4995ACCCF2E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RangeSumQuery_Immutable", "RangeSumQuery_Immutable\RangeSumQuery_Immutable.vcxproj", "{A9C4A9D9-0CC0-4C35-A1E1-D71CC976EAAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -311,6 +315,22 @@ Global
 		{BDE0ED9A-80CC-48C7-B283-241D73C6FCF1}.Release|x64.Build.0 = Release|x64
 		{BDE0ED9A-80CC-48C7-B283-241D73C6FCF1}.Release|x86.ActiveCfg = Release|Win32
 		{BDE0ED9A-80CC-48C7-B283-241D73C6FCF1}.Release|x86.Build.0 = Release|Win32
+		{302F5D4D-499F-47BC-8E55-F4995ACCCF2E}.Debug|x64.ActiveCfg = Debug|x64
+		{302F5D4D-499F-47BC-8E55-F4995ACCCF2E}.Debug|x64.Build.0 = Debug|x64
+		{302F5D4D-499F-47BC-8E55-F4995ACCCF2E}.Debug|x86.ActiveCfg = Debug|Win32
+		{302F5D4D-499F-47BC-8E55-F4995ACCCF2E}.Debug|x86.Build.0 = Debug|Win32
+		{302F5D4D-499F-47BC-8E55-F4995ACCCF2E}.Release|x64.ActiveCfg = Release|x64
+		{302F5D4D-499F-47BC-8E55-F4995ACCCF2E}.Release|x64.Build.0 = Release|x64
+		{302F5D4D-499F-47BC-8E55-F4995ACCCF2E}.Release|x86.ActiveCfg = Release|Win32
+		{302F5D4D-499F-47BC-8E55-F4995ACCCF2E}.Release|x86.Build.0 = Release|Win32
+		{A9C4A9D9-0CC0-4C35-A1E1-D71CC976EAAD}.Debug|x64.ActiveCfg = Debug|x64
+		{A9C4A9D9-0CC0-4C35-A1E1-D71CC976EAAD}.Debug|x64.Build.0 = Debug|x64
+		{A9C4A9D9-0CC0-4C35-A1E1-D71CC976EAAD}.Debug|x86.ActiveCfg = Debug|Win32
+		{A9C4A9D9-0CC0-4C35-A1E1-D71CC976EAAD}.Debug|x86.Build.0 = Debug|Win32
+		{A9C4A9D9-0CC0-4C35-A1E1-D71CC976EAAD}.Release|x64.ActiveCfg = Release|x64
+		{A9C4A9D9-0CC0-4C35-A1E1-D71CC976EAAD}.Release|x64.Build.0 = Release|x64
+		{A9C4A9D9-0CC0-4C35-A1E1-D71CC976EAAD}.Release|x86.ActiveCfg = Release|Win32
+		{A9C4A9D9-0CC0-4C35-A1E1-D71CC976EAAD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
