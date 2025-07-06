@@ -67,6 +67,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NimGame", "NimGame\NimGame.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RangeSumQuery_Immutable", "RangeSumQuery_Immutable\RangeSumQuery_Immutable.vcxproj", "{A9C4A9D9-0CC0-4C35-A1E1-D71CC976EAAD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FindingPairsWithaCertainSum", "FindingPairsWithaCertainSum\FindingPairsWithaCertainSum.vcxproj", "{AFBF93FB-3370-47EC-AA31-590799E32F99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -331,6 +333,14 @@ Global
 		{A9C4A9D9-0CC0-4C35-A1E1-D71CC976EAAD}.Release|x64.Build.0 = Release|x64
 		{A9C4A9D9-0CC0-4C35-A1E1-D71CC976EAAD}.Release|x86.ActiveCfg = Release|Win32
 		{A9C4A9D9-0CC0-4C35-A1E1-D71CC976EAAD}.Release|x86.Build.0 = Release|Win32
+		{AFBF93FB-3370-47EC-AA31-590799E32F99}.Debug|x64.ActiveCfg = Debug|x64
+		{AFBF93FB-3370-47EC-AA31-590799E32F99}.Debug|x64.Build.0 = Debug|x64
+		{AFBF93FB-3370-47EC-AA31-590799E32F99}.Debug|x86.ActiveCfg = Debug|Win32
+		{AFBF93FB-3370-47EC-AA31-590799E32F99}.Debug|x86.Build.0 = Debug|Win32
+		{AFBF93FB-3370-47EC-AA31-590799E32F99}.Release|x64.ActiveCfg = Release|x64
+		{AFBF93FB-3370-47EC-AA31-590799E32F99}.Release|x64.Build.0 = Release|x64
+		{AFBF93FB-3370-47EC-AA31-590799E32F99}.Release|x86.ActiveCfg = Release|Win32
+		{AFBF93FB-3370-47EC-AA31-590799E32F99}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
