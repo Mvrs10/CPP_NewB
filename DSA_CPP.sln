@@ -77,6 +77,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CountingBits", "CountingBit
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PowerOfFour", "PowerOfFour\PowerOfFour.vcxproj", "{0826DAC4-D2E8-4962-B841-12D2C84D16CC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MaximumNumberOfEventsThatCanBeAttended2", "MaximumNumberOfEventsThatCanBeAttended2\MaximumNumberOfEventsThatCanBeAttended2.vcxproj", "{98854543-11D7-4974-B114-03563E7698DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -381,6 +383,14 @@ Global
 		{0826DAC4-D2E8-4962-B841-12D2C84D16CC}.Release|x64.Build.0 = Release|x64
 		{0826DAC4-D2E8-4962-B841-12D2C84D16CC}.Release|x86.ActiveCfg = Release|Win32
 		{0826DAC4-D2E8-4962-B841-12D2C84D16CC}.Release|x86.Build.0 = Release|Win32
+		{98854543-11D7-4974-B114-03563E7698DD}.Debug|x64.ActiveCfg = Debug|x64
+		{98854543-11D7-4974-B114-03563E7698DD}.Debug|x64.Build.0 = Debug|x64
+		{98854543-11D7-4974-B114-03563E7698DD}.Debug|x86.ActiveCfg = Debug|Win32
+		{98854543-11D7-4974-B114-03563E7698DD}.Debug|x86.Build.0 = Debug|Win32
+		{98854543-11D7-4974-B114-03563E7698DD}.Release|x64.ActiveCfg = Release|x64
+		{98854543-11D7-4974-B114-03563E7698DD}.Release|x64.Build.0 = Release|x64
+		{98854543-11D7-4974-B114-03563E7698DD}.Release|x86.ActiveCfg = Release|Win32
+		{98854543-11D7-4974-B114-03563E7698DD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
