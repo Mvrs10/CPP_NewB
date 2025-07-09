@@ -79,6 +79,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PowerOfFour", "PowerOfFour\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MaximumNumberOfEventsThatCanBeAttended2", "MaximumNumberOfEventsThatCanBeAttended2\MaximumNumberOfEventsThatCanBeAttended2.vcxproj", "{98854543-11D7-4974-B114-03563E7698DD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RescheduleMeetingsForMaxFreeTime1", "RescheduleMeetingsForMaxFreeTime1\RescheduleMeetingsForMaxFreeTime1.vcxproj", "{42515414-C14A-496C-8E1C-C18E3C125E07}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -391,6 +393,14 @@ Global
 		{98854543-11D7-4974-B114-03563E7698DD}.Release|x64.Build.0 = Release|x64
 		{98854543-11D7-4974-B114-03563E7698DD}.Release|x86.ActiveCfg = Release|Win32
 		{98854543-11D7-4974-B114-03563E7698DD}.Release|x86.Build.0 = Release|Win32
+		{42515414-C14A-496C-8E1C-C18E3C125E07}.Debug|x64.ActiveCfg = Debug|x64
+		{42515414-C14A-496C-8E1C-C18E3C125E07}.Debug|x64.Build.0 = Debug|x64
+		{42515414-C14A-496C-8E1C-C18E3C125E07}.Debug|x86.ActiveCfg = Debug|Win32
+		{42515414-C14A-496C-8E1C-C18E3C125E07}.Debug|x86.Build.0 = Debug|Win32
+		{42515414-C14A-496C-8E1C-C18E3C125E07}.Release|x64.ActiveCfg = Release|x64
+		{42515414-C14A-496C-8E1C-C18E3C125E07}.Release|x64.Build.0 = Release|x64
+		{42515414-C14A-496C-8E1C-C18E3C125E07}.Release|x86.ActiveCfg = Release|Win32
+		{42515414-C14A-496C-8E1C-C18E3C125E07}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
