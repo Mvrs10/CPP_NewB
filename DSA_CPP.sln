@@ -95,6 +95,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ValidWord", "ValidWord\Vali
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FindTheMaximumLengthOfValidSubsequent1", "FindTheMaximumLengthOfValidSubsequent1\FindTheMaximumLengthOfValidSubsequent1.vcxproj", "{ECFFA81E-4658-4A7D-AE63-4E24960FE17F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IntersectionOfTwoArrays2", "IntersectionOfTwoArrays2\IntersectionOfTwoArrays2.vcxproj", "{ACD6878F-0B75-41E5-B671-58A4E1F5693E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -471,6 +473,14 @@ Global
 		{ECFFA81E-4658-4A7D-AE63-4E24960FE17F}.Release|x64.Build.0 = Release|x64
 		{ECFFA81E-4658-4A7D-AE63-4E24960FE17F}.Release|x86.ActiveCfg = Release|Win32
 		{ECFFA81E-4658-4A7D-AE63-4E24960FE17F}.Release|x86.Build.0 = Release|Win32
+		{ACD6878F-0B75-41E5-B671-58A4E1F5693E}.Debug|x64.ActiveCfg = Debug|x64
+		{ACD6878F-0B75-41E5-B671-58A4E1F5693E}.Debug|x64.Build.0 = Debug|x64
+		{ACD6878F-0B75-41E5-B671-58A4E1F5693E}.Debug|x86.ActiveCfg = Debug|Win32
+		{ACD6878F-0B75-41E5-B671-58A4E1F5693E}.Debug|x86.Build.0 = Debug|Win32
+		{ACD6878F-0B75-41E5-B671-58A4E1F5693E}.Release|x64.ActiveCfg = Release|x64
+		{ACD6878F-0B75-41E5-B671-58A4E1F5693E}.Release|x64.Build.0 = Release|x64
+		{ACD6878F-0B75-41E5-B671-58A4E1F5693E}.Release|x86.ActiveCfg = Release|Win32
+		{ACD6878F-0B75-41E5-B671-58A4E1F5693E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
