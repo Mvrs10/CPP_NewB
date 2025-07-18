@@ -101,6 +101,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ValidPerfectSquare", "Valid
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GuessNumberHigherOrLower", "GuessNumberHigherOrLower\GuessNumberHigherOrLower.vcxproj", "{05A0D838-C1BB-49E7-AD52-BD45F281FA8D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RansomNote", "RansomNote\RansomNote.vcxproj", "{E21E8021-9CD6-4FD0-808B-DA9421638CB1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -501,6 +503,14 @@ Global
 		{05A0D838-C1BB-49E7-AD52-BD45F281FA8D}.Release|x64.Build.0 = Release|x64
 		{05A0D838-C1BB-49E7-AD52-BD45F281FA8D}.Release|x86.ActiveCfg = Release|Win32
 		{05A0D838-C1BB-49E7-AD52-BD45F281FA8D}.Release|x86.Build.0 = Release|Win32
+		{E21E8021-9CD6-4FD0-808B-DA9421638CB1}.Debug|x64.ActiveCfg = Debug|x64
+		{E21E8021-9CD6-4FD0-808B-DA9421638CB1}.Debug|x64.Build.0 = Debug|x64
+		{E21E8021-9CD6-4FD0-808B-DA9421638CB1}.Debug|x86.ActiveCfg = Debug|Win32
+		{E21E8021-9CD6-4FD0-808B-DA9421638CB1}.Debug|x86.Build.0 = Debug|Win32
+		{E21E8021-9CD6-4FD0-808B-DA9421638CB1}.Release|x64.ActiveCfg = Release|x64
+		{E21E8021-9CD6-4FD0-808B-DA9421638CB1}.Release|x64.Build.0 = Release|x64
+		{E21E8021-9CD6-4FD0-808B-DA9421638CB1}.Release|x86.ActiveCfg = Release|Win32
+		{E21E8021-9CD6-4FD0-808B-DA9421638CB1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
