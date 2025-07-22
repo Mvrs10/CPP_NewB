@@ -14,4 +14,9 @@ struct DATASTRUCTURES_API TreeNode {
     TreeNode();
     TreeNode(int x);
     TreeNode(int x, TreeNode* left, TreeNode* right);
+
+    ~TreeNode() {
+        delete left;
+        delete right;
+    }
 };
