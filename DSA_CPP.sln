@@ -127,6 +127,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConvertANumberToHexaDecimal
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LongestPalindrome", "LongestPalindrome\LongestPalindrome.vcxproj", "{D346CB4D-7BEC-4D0B-9A0D-3CA24A8C2DBF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FizzBuzz", "FizzBuzz\FizzBuzz.vcxproj", "{DD98CDBF-015A-4D6A-8759-F436ACA37E1F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -631,6 +633,14 @@ Global
 		{D346CB4D-7BEC-4D0B-9A0D-3CA24A8C2DBF}.Release|x64.Build.0 = Release|x64
 		{D346CB4D-7BEC-4D0B-9A0D-3CA24A8C2DBF}.Release|x86.ActiveCfg = Release|Win32
 		{D346CB4D-7BEC-4D0B-9A0D-3CA24A8C2DBF}.Release|x86.Build.0 = Release|Win32
+		{DD98CDBF-015A-4D6A-8759-F436ACA37E1F}.Debug|x64.ActiveCfg = Debug|x64
+		{DD98CDBF-015A-4D6A-8759-F436ACA37E1F}.Debug|x64.Build.0 = Debug|x64
+		{DD98CDBF-015A-4D6A-8759-F436ACA37E1F}.Debug|x86.ActiveCfg = Debug|Win32
+		{DD98CDBF-015A-4D6A-8759-F436ACA37E1F}.Debug|x86.Build.0 = Debug|Win32
+		{DD98CDBF-015A-4D6A-8759-F436ACA37E1F}.Release|x64.ActiveCfg = Release|x64
+		{DD98CDBF-015A-4D6A-8759-F436ACA37E1F}.Release|x64.Build.0 = Release|x64
+		{DD98CDBF-015A-4D6A-8759-F436ACA37E1F}.Release|x86.ActiveCfg = Release|Win32
+		{DD98CDBF-015A-4D6A-8759-F436ACA37E1F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
