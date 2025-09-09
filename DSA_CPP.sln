@@ -131,6 +131,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FizzBuzz", "FizzBuzz\FizzBu
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConvertIntegertotheSumofTwoNoZeroIntegers", "ConvertIntegertotheSumofTwoNoZeroIntegers\ConvertIntegertotheSumofTwoNoZeroIntegers.vcxproj", "{32B5A9E0-D01A-4D6C-BC6C-8D98BB529A9D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FruitsIntoBaskets2", "FruitsIntoBaskets2\FruitsIntoBaskets2.vcxproj", "{45840F28-5297-4A7D-B98E-A80EACCE1086}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -651,6 +653,14 @@ Global
 		{32B5A9E0-D01A-4D6C-BC6C-8D98BB529A9D}.Release|x64.Build.0 = Release|x64
 		{32B5A9E0-D01A-4D6C-BC6C-8D98BB529A9D}.Release|x86.ActiveCfg = Release|Win32
 		{32B5A9E0-D01A-4D6C-BC6C-8D98BB529A9D}.Release|x86.Build.0 = Release|Win32
+		{45840F28-5297-4A7D-B98E-A80EACCE1086}.Debug|x64.ActiveCfg = Debug|x64
+		{45840F28-5297-4A7D-B98E-A80EACCE1086}.Debug|x64.Build.0 = Debug|x64
+		{45840F28-5297-4A7D-B98E-A80EACCE1086}.Debug|x86.ActiveCfg = Debug|Win32
+		{45840F28-5297-4A7D-B98E-A80EACCE1086}.Debug|x86.Build.0 = Debug|Win32
+		{45840F28-5297-4A7D-B98E-A80EACCE1086}.Release|x64.ActiveCfg = Release|x64
+		{45840F28-5297-4A7D-B98E-A80EACCE1086}.Release|x64.Build.0 = Release|x64
+		{45840F28-5297-4A7D-B98E-A80EACCE1086}.Release|x86.ActiveCfg = Release|Win32
+		{45840F28-5297-4A7D-B98E-A80EACCE1086}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
