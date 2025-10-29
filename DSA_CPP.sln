@@ -159,6 +159,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NumberOfLaserBeamsInABank",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MakeArrayElementsEqualToZero", "MakeArrayElementsEqualToZero\MakeArrayElementsEqualToZero.vcxproj", "{C33E35C6-884F-4463-9758-7D9205B91F79}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SmallestNumberWithAllSetBits", "SmallestNumberWithAllSetBits\SmallestNumberWithAllSetBits.vcxproj", "{CB392427-81AF-481B-A85E-58B5B4B45952}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -791,6 +793,14 @@ Global
 		{C33E35C6-884F-4463-9758-7D9205B91F79}.Release|x64.Build.0 = Release|x64
 		{C33E35C6-884F-4463-9758-7D9205B91F79}.Release|x86.ActiveCfg = Release|Win32
 		{C33E35C6-884F-4463-9758-7D9205B91F79}.Release|x86.Build.0 = Release|Win32
+		{CB392427-81AF-481B-A85E-58B5B4B45952}.Debug|x64.ActiveCfg = Debug|x64
+		{CB392427-81AF-481B-A85E-58B5B4B45952}.Debug|x64.Build.0 = Debug|x64
+		{CB392427-81AF-481B-A85E-58B5B4B45952}.Debug|x86.ActiveCfg = Debug|Win32
+		{CB392427-81AF-481B-A85E-58B5B4B45952}.Debug|x86.Build.0 = Debug|Win32
+		{CB392427-81AF-481B-A85E-58B5B4B45952}.Release|x64.ActiveCfg = Release|x64
+		{CB392427-81AF-481B-A85E-58B5B4B45952}.Release|x64.Build.0 = Release|x64
+		{CB392427-81AF-481B-A85E-58B5B4B45952}.Release|x86.ActiveCfg = Release|Win32
+		{CB392427-81AF-481B-A85E-58B5B4B45952}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
