@@ -161,6 +161,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MakeArrayElementsEqualToZer
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SmallestNumberWithAllSetBits", "SmallestNumberWithAllSetBits\SmallestNumberWithAllSetBits.vcxproj", "{CB392427-81AF-481B-A85E-58B5B4B45952}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MinimumNumberOfIncrementsOnSubarraysToFormATargetArray", "MinimumNumberOfIncrementsOnSubarraysToFormATargetArray\MinimumNumberOfIncrementsOnSubarraysToFormATargetArray.vcxproj", "{7BAE0612-5E03-49F2-B2D5-9378A158DCA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -801,6 +803,14 @@ Global
 		{CB392427-81AF-481B-A85E-58B5B4B45952}.Release|x64.Build.0 = Release|x64
 		{CB392427-81AF-481B-A85E-58B5B4B45952}.Release|x86.ActiveCfg = Release|Win32
 		{CB392427-81AF-481B-A85E-58B5B4B45952}.Release|x86.Build.0 = Release|Win32
+		{7BAE0612-5E03-49F2-B2D5-9378A158DCA5}.Debug|x64.ActiveCfg = Debug|x64
+		{7BAE0612-5E03-49F2-B2D5-9378A158DCA5}.Debug|x64.Build.0 = Debug|x64
+		{7BAE0612-5E03-49F2-B2D5-9378A158DCA5}.Debug|x86.ActiveCfg = Debug|Win32
+		{7BAE0612-5E03-49F2-B2D5-9378A158DCA5}.Debug|x86.Build.0 = Debug|Win32
+		{7BAE0612-5E03-49F2-B2D5-9378A158DCA5}.Release|x64.ActiveCfg = Release|x64
+		{7BAE0612-5E03-49F2-B2D5-9378A158DCA5}.Release|x64.Build.0 = Release|x64
+		{7BAE0612-5E03-49F2-B2D5-9378A158DCA5}.Release|x86.ActiveCfg = Release|Win32
+		{7BAE0612-5E03-49F2-B2D5-9378A158DCA5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
