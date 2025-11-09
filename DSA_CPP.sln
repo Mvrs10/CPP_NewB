@@ -171,6 +171,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CountUnguardedCellsInTheGri
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MinimumTimeToMakeRopeColorful", "MinimumTimeToMakeRopeColorful\MinimumTimeToMakeRopeColorful.vcxproj", "{36E12344-1073-4058-9685-423B572B1EC2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MinimumOneBitOperationsToMakeIntegersZero", "MinimumOneBitOperationsToMakeIntegersZero\MinimumOneBitOperationsToMakeIntegersZero.vcxproj", "{1D24BBFC-692D-4371-92B2-16573D56B69B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -851,6 +853,14 @@ Global
 		{36E12344-1073-4058-9685-423B572B1EC2}.Release|x64.Build.0 = Release|x64
 		{36E12344-1073-4058-9685-423B572B1EC2}.Release|x86.ActiveCfg = Release|Win32
 		{36E12344-1073-4058-9685-423B572B1EC2}.Release|x86.Build.0 = Release|Win32
+		{1D24BBFC-692D-4371-92B2-16573D56B69B}.Debug|x64.ActiveCfg = Debug|x64
+		{1D24BBFC-692D-4371-92B2-16573D56B69B}.Debug|x64.Build.0 = Debug|x64
+		{1D24BBFC-692D-4371-92B2-16573D56B69B}.Debug|x86.ActiveCfg = Debug|Win32
+		{1D24BBFC-692D-4371-92B2-16573D56B69B}.Debug|x86.Build.0 = Debug|Win32
+		{1D24BBFC-692D-4371-92B2-16573D56B69B}.Release|x64.ActiveCfg = Release|x64
+		{1D24BBFC-692D-4371-92B2-16573D56B69B}.Release|x64.Build.0 = Release|x64
+		{1D24BBFC-692D-4371-92B2-16573D56B69B}.Release|x86.ActiveCfg = Release|Win32
+		{1D24BBFC-692D-4371-92B2-16573D56B69B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
