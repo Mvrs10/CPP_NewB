@@ -175,6 +175,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MinimumOneBitOperationsToMa
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CountOperationsToObtainZero", "CountOperationsToObtainZero\CountOperationsToObtainZero.vcxproj", "{7A6C002D-FC79-4387-8049-BB9AA2E3BD51}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MinimumOperationsToConvertAllElementsToZero", "MinimumOperationsToConvertAllElementsToZero\MinimumOperationsToConvertAllElementsToZero.vcxproj", "{398B9385-5983-44CB-925F-F45CB8C3329D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -871,6 +873,14 @@ Global
 		{7A6C002D-FC79-4387-8049-BB9AA2E3BD51}.Release|x64.Build.0 = Release|x64
 		{7A6C002D-FC79-4387-8049-BB9AA2E3BD51}.Release|x86.ActiveCfg = Release|Win32
 		{7A6C002D-FC79-4387-8049-BB9AA2E3BD51}.Release|x86.Build.0 = Release|Win32
+		{398B9385-5983-44CB-925F-F45CB8C3329D}.Debug|x64.ActiveCfg = Debug|x64
+		{398B9385-5983-44CB-925F-F45CB8C3329D}.Debug|x64.Build.0 = Debug|x64
+		{398B9385-5983-44CB-925F-F45CB8C3329D}.Debug|x86.ActiveCfg = Debug|Win32
+		{398B9385-5983-44CB-925F-F45CB8C3329D}.Debug|x86.Build.0 = Debug|Win32
+		{398B9385-5983-44CB-925F-F45CB8C3329D}.Release|x64.ActiveCfg = Release|x64
+		{398B9385-5983-44CB-925F-F45CB8C3329D}.Release|x64.Build.0 = Release|x64
+		{398B9385-5983-44CB-925F-F45CB8C3329D}.Release|x86.ActiveCfg = Release|Win32
+		{398B9385-5983-44CB-925F-F45CB8C3329D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
