@@ -187,6 +187,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IncrementSubmatricesByOne",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CountTheNumberOfSubstringsWithDominantOnes", "CountTheNumberOfSubstringsWithDominantOnes\CountTheNumberOfSubstringsWithDominantOnes.vcxproj", "{130EE47E-1AFA-47DE-B422-2D65CBA07A56}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NumberOfSubstringsWithOnly1s", "NumberOfSubstringsWithOnly1s\NumberOfSubstringsWithOnly1s.vcxproj", "{22F75036-7BC4-422F-AEF4-091A858007F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -931,6 +933,14 @@ Global
 		{130EE47E-1AFA-47DE-B422-2D65CBA07A56}.Release|x64.Build.0 = Release|x64
 		{130EE47E-1AFA-47DE-B422-2D65CBA07A56}.Release|x86.ActiveCfg = Release|Win32
 		{130EE47E-1AFA-47DE-B422-2D65CBA07A56}.Release|x86.Build.0 = Release|Win32
+		{22F75036-7BC4-422F-AEF4-091A858007F4}.Debug|x64.ActiveCfg = Debug|x64
+		{22F75036-7BC4-422F-AEF4-091A858007F4}.Debug|x64.Build.0 = Debug|x64
+		{22F75036-7BC4-422F-AEF4-091A858007F4}.Debug|x86.ActiveCfg = Debug|Win32
+		{22F75036-7BC4-422F-AEF4-091A858007F4}.Debug|x86.Build.0 = Debug|Win32
+		{22F75036-7BC4-422F-AEF4-091A858007F4}.Release|x64.ActiveCfg = Release|x64
+		{22F75036-7BC4-422F-AEF4-091A858007F4}.Release|x64.Build.0 = Release|x64
+		{22F75036-7BC4-422F-AEF4-091A858007F4}.Release|x86.ActiveCfg = Release|Win32
+		{22F75036-7BC4-422F-AEF4-091A858007F4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
