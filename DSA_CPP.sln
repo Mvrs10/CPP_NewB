@@ -199,6 +199,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SetIntersectionSizeAtLeastT
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ThirdMaximumNumber", "ThirdMaximumNumber\ThirdMaximumNumber.vcxproj", "{E62C1912-EE14-480C-874D-1F33FCE2E8F3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UniqueLength3PalindromicSubsequences", "UniqueLength3PalindromicSubsequences\UniqueLength3PalindromicSubsequences.vcxproj", "{166F8236-663E-482E-A87B-8564B83DE377}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -991,6 +993,14 @@ Global
 		{E62C1912-EE14-480C-874D-1F33FCE2E8F3}.Release|x64.Build.0 = Release|x64
 		{E62C1912-EE14-480C-874D-1F33FCE2E8F3}.Release|x86.ActiveCfg = Release|Win32
 		{E62C1912-EE14-480C-874D-1F33FCE2E8F3}.Release|x86.Build.0 = Release|Win32
+		{166F8236-663E-482E-A87B-8564B83DE377}.Debug|x64.ActiveCfg = Debug|x64
+		{166F8236-663E-482E-A87B-8564B83DE377}.Debug|x64.Build.0 = Debug|x64
+		{166F8236-663E-482E-A87B-8564B83DE377}.Debug|x86.ActiveCfg = Debug|Win32
+		{166F8236-663E-482E-A87B-8564B83DE377}.Debug|x86.Build.0 = Debug|Win32
+		{166F8236-663E-482E-A87B-8564B83DE377}.Release|x64.ActiveCfg = Release|x64
+		{166F8236-663E-482E-A87B-8564B83DE377}.Release|x64.Build.0 = Release|x64
+		{166F8236-663E-482E-A87B-8564B83DE377}.Release|x86.ActiveCfg = Release|Win32
+		{166F8236-663E-482E-A87B-8564B83DE377}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
