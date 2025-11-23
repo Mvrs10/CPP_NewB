@@ -209,6 +209,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NumberOfSegmentsInAString",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ArrangingCoins", "ArrangingCoins\ArrangingCoins.vcxproj", "{DCF06827-D659-46E0-8A2C-20538C63FF46}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FindAllNumbersDisappearedInAnArray", "FindAllNumbersDisappearedInAnArray\FindAllNumbersDisappearedInAnArray.vcxproj", "{147EC964-DB4C-4EFF-AC87-2DFB838D0E78}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GreatestSumDivisibleByThree", "GreatestSumDivisibleByThree\GreatestSumDivisibleByThree.vcxproj", "{69FA5868-7830-4883-84E1-4556D40AF027}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1041,6 +1045,22 @@ Global
 		{DCF06827-D659-46E0-8A2C-20538C63FF46}.Release|x64.Build.0 = Release|x64
 		{DCF06827-D659-46E0-8A2C-20538C63FF46}.Release|x86.ActiveCfg = Release|Win32
 		{DCF06827-D659-46E0-8A2C-20538C63FF46}.Release|x86.Build.0 = Release|Win32
+		{147EC964-DB4C-4EFF-AC87-2DFB838D0E78}.Debug|x64.ActiveCfg = Debug|x64
+		{147EC964-DB4C-4EFF-AC87-2DFB838D0E78}.Debug|x64.Build.0 = Debug|x64
+		{147EC964-DB4C-4EFF-AC87-2DFB838D0E78}.Debug|x86.ActiveCfg = Debug|Win32
+		{147EC964-DB4C-4EFF-AC87-2DFB838D0E78}.Debug|x86.Build.0 = Debug|Win32
+		{147EC964-DB4C-4EFF-AC87-2DFB838D0E78}.Release|x64.ActiveCfg = Release|x64
+		{147EC964-DB4C-4EFF-AC87-2DFB838D0E78}.Release|x64.Build.0 = Release|x64
+		{147EC964-DB4C-4EFF-AC87-2DFB838D0E78}.Release|x86.ActiveCfg = Release|Win32
+		{147EC964-DB4C-4EFF-AC87-2DFB838D0E78}.Release|x86.Build.0 = Release|Win32
+		{69FA5868-7830-4883-84E1-4556D40AF027}.Debug|x64.ActiveCfg = Debug|x64
+		{69FA5868-7830-4883-84E1-4556D40AF027}.Debug|x64.Build.0 = Debug|x64
+		{69FA5868-7830-4883-84E1-4556D40AF027}.Debug|x86.ActiveCfg = Debug|Win32
+		{69FA5868-7830-4883-84E1-4556D40AF027}.Debug|x86.Build.0 = Debug|Win32
+		{69FA5868-7830-4883-84E1-4556D40AF027}.Release|x64.ActiveCfg = Release|x64
+		{69FA5868-7830-4883-84E1-4556D40AF027}.Release|x64.Build.0 = Release|x64
+		{69FA5868-7830-4883-84E1-4556D40AF027}.Release|x86.ActiveCfg = Release|Win32
+		{69FA5868-7830-4883-84E1-4556D40AF027}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
