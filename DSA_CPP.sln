@@ -217,6 +217,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BinaryPrefixDivisibleByFive
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SmallestIntegerDivisibleByK", "SmallestIntegerDivisibleByK\SmallestIntegerDivisibleByK.vcxproj", "{2283D15B-C531-4EB1-94D2-E59E56DCCAC8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PathsInMatrixWhoseSumIsDivisibleByK", "PathsInMatrixWhoseSumIsDivisibleByK\PathsInMatrixWhoseSumIsDivisibleByK.vcxproj", "{5FC1B0EE-8AE6-4A4C-BBC5-2CF18752FE52}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1081,6 +1083,14 @@ Global
 		{2283D15B-C531-4EB1-94D2-E59E56DCCAC8}.Release|x64.Build.0 = Release|x64
 		{2283D15B-C531-4EB1-94D2-E59E56DCCAC8}.Release|x86.ActiveCfg = Release|Win32
 		{2283D15B-C531-4EB1-94D2-E59E56DCCAC8}.Release|x86.Build.0 = Release|Win32
+		{5FC1B0EE-8AE6-4A4C-BBC5-2CF18752FE52}.Debug|x64.ActiveCfg = Debug|x64
+		{5FC1B0EE-8AE6-4A4C-BBC5-2CF18752FE52}.Debug|x64.Build.0 = Debug|x64
+		{5FC1B0EE-8AE6-4A4C-BBC5-2CF18752FE52}.Debug|x86.ActiveCfg = Debug|Win32
+		{5FC1B0EE-8AE6-4A4C-BBC5-2CF18752FE52}.Debug|x86.Build.0 = Debug|Win32
+		{5FC1B0EE-8AE6-4A4C-BBC5-2CF18752FE52}.Release|x64.ActiveCfg = Release|x64
+		{5FC1B0EE-8AE6-4A4C-BBC5-2CF18752FE52}.Release|x64.Build.0 = Release|x64
+		{5FC1B0EE-8AE6-4A4C-BBC5-2CF18752FE52}.Release|x86.ActiveCfg = Release|Win32
+		{5FC1B0EE-8AE6-4A4C-BBC5-2CF18752FE52}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
