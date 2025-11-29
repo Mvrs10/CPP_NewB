@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{a311a495-a2e3-4170-8e79-df1db310baf6}</ProjectGuid>
-    <RootNamespace>MaximumNumberOfKDivisibleComponents</RootNamespace>
+    <ProjectGuid>{cd2d35e2-5e91-4844-b837-b8e7f861b2bc}</ProjectGuid>
+    <RootNamespace>AddTwoNumbers</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -102,10 +102,13 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>C:\Users\ALIEN\source\repos\ClassWork_COMP217_Week2_MKP\DataStructures;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>$(SolutionDir)x64/Debug/;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>DataStructures.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
@@ -123,10 +126,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="MaximumNumberOfKDivisibleComponents.cpp" />
+    <ClCompile Include="AddTwoNumbers.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="MaxKDivComponent.h" />
+    <ClInclude Include="AddTwoLinkedListNumbers.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
