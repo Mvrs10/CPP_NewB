@@ -239,6 +239,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CountPartitionsWithEvenSumD
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IntegerToRoman", "IntegerToRoman\IntegerToRoman.vcxproj", "{CF7382EC-004F-4AD0-98BF-2E90418D0523}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ContainerWithMostWater", "ContainerWithMostWater\ContainerWithMostWater.vcxproj", "{22C07925-BB31-4F71-BFD2-D3FDFC0F1E82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1191,6 +1193,14 @@ Global
 		{CF7382EC-004F-4AD0-98BF-2E90418D0523}.Release|x64.Build.0 = Release|x64
 		{CF7382EC-004F-4AD0-98BF-2E90418D0523}.Release|x86.ActiveCfg = Release|Win32
 		{CF7382EC-004F-4AD0-98BF-2E90418D0523}.Release|x86.Build.0 = Release|Win32
+		{22C07925-BB31-4F71-BFD2-D3FDFC0F1E82}.Debug|x64.ActiveCfg = Debug|x64
+		{22C07925-BB31-4F71-BFD2-D3FDFC0F1E82}.Debug|x64.Build.0 = Debug|x64
+		{22C07925-BB31-4F71-BFD2-D3FDFC0F1E82}.Debug|x86.ActiveCfg = Debug|Win32
+		{22C07925-BB31-4F71-BFD2-D3FDFC0F1E82}.Debug|x86.Build.0 = Debug|Win32
+		{22C07925-BB31-4F71-BFD2-D3FDFC0F1E82}.Release|x64.ActiveCfg = Release|x64
+		{22C07925-BB31-4F71-BFD2-D3FDFC0F1E82}.Release|x64.Build.0 = Release|x64
+		{22C07925-BB31-4F71-BFD2-D3FDFC0F1E82}.Release|x86.ActiveCfg = Release|Win32
+		{22C07925-BB31-4F71-BFD2-D3FDFC0F1E82}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
