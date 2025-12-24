@@ -257,6 +257,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DeleteColumnsToMakeSorted2"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DeleteColumnsToMakeSorted3", "DeleteColumnsToMakeSorted3\DeleteColumnsToMakeSorted3.vcxproj", "{4EA6D77B-BBB6-406D-A13A-098DDB038022}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TwoBestNonOverlappingEvents", "TwoBestNonOverlappingEvents\TwoBestNonOverlappingEvents.vcxproj", "{41CA332B-4EDF-4AE6-BF6E-883901BE325A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1791,6 +1793,18 @@ Global
 		{4EA6D77B-BBB6-406D-A13A-098DDB038022}.Release|x64.Build.0 = Release|x64
 		{4EA6D77B-BBB6-406D-A13A-098DDB038022}.Release|x86.ActiveCfg = Release|Win32
 		{4EA6D77B-BBB6-406D-A13A-098DDB038022}.Release|x86.Build.0 = Release|Win32
+		{41CA332B-4EDF-4AE6-BF6E-883901BE325A}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{41CA332B-4EDF-4AE6-BF6E-883901BE325A}.Debug|Any CPU.Build.0 = Debug|x64
+		{41CA332B-4EDF-4AE6-BF6E-883901BE325A}.Debug|x64.ActiveCfg = Debug|x64
+		{41CA332B-4EDF-4AE6-BF6E-883901BE325A}.Debug|x64.Build.0 = Debug|x64
+		{41CA332B-4EDF-4AE6-BF6E-883901BE325A}.Debug|x86.ActiveCfg = Debug|Win32
+		{41CA332B-4EDF-4AE6-BF6E-883901BE325A}.Debug|x86.Build.0 = Debug|Win32
+		{41CA332B-4EDF-4AE6-BF6E-883901BE325A}.Release|Any CPU.ActiveCfg = Release|x64
+		{41CA332B-4EDF-4AE6-BF6E-883901BE325A}.Release|Any CPU.Build.0 = Release|x64
+		{41CA332B-4EDF-4AE6-BF6E-883901BE325A}.Release|x64.ActiveCfg = Release|x64
+		{41CA332B-4EDF-4AE6-BF6E-883901BE325A}.Release|x64.Build.0 = Release|x64
+		{41CA332B-4EDF-4AE6-BF6E-883901BE325A}.Release|x86.ActiveCfg = Release|Win32
+		{41CA332B-4EDF-4AE6-BF6E-883901BE325A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
