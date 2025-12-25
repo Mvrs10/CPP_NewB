@@ -259,6 +259,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DeleteColumnsToMakeSorted3"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TwoBestNonOverlappingEvents", "TwoBestNonOverlappingEvents\TwoBestNonOverlappingEvents.vcxproj", "{41CA332B-4EDF-4AE6-BF6E-883901BE325A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AppleRedistributionIntoBoxes", "AppleRedistributionIntoBoxes\AppleRedistributionIntoBoxes.vcxproj", "{6968BB5A-2E97-4B0A-B0CB-3EBA6164244F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1805,6 +1807,18 @@ Global
 		{41CA332B-4EDF-4AE6-BF6E-883901BE325A}.Release|x64.Build.0 = Release|x64
 		{41CA332B-4EDF-4AE6-BF6E-883901BE325A}.Release|x86.ActiveCfg = Release|Win32
 		{41CA332B-4EDF-4AE6-BF6E-883901BE325A}.Release|x86.Build.0 = Release|Win32
+		{6968BB5A-2E97-4B0A-B0CB-3EBA6164244F}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{6968BB5A-2E97-4B0A-B0CB-3EBA6164244F}.Debug|Any CPU.Build.0 = Debug|x64
+		{6968BB5A-2E97-4B0A-B0CB-3EBA6164244F}.Debug|x64.ActiveCfg = Debug|x64
+		{6968BB5A-2E97-4B0A-B0CB-3EBA6164244F}.Debug|x64.Build.0 = Debug|x64
+		{6968BB5A-2E97-4B0A-B0CB-3EBA6164244F}.Debug|x86.ActiveCfg = Debug|Win32
+		{6968BB5A-2E97-4B0A-B0CB-3EBA6164244F}.Debug|x86.Build.0 = Debug|Win32
+		{6968BB5A-2E97-4B0A-B0CB-3EBA6164244F}.Release|Any CPU.ActiveCfg = Release|x64
+		{6968BB5A-2E97-4B0A-B0CB-3EBA6164244F}.Release|Any CPU.Build.0 = Release|x64
+		{6968BB5A-2E97-4B0A-B0CB-3EBA6164244F}.Release|x64.ActiveCfg = Release|x64
+		{6968BB5A-2E97-4B0A-B0CB-3EBA6164244F}.Release|x64.Build.0 = Release|x64
+		{6968BB5A-2E97-4B0A-B0CB-3EBA6164244F}.Release|x86.ActiveCfg = Release|Win32
+		{6968BB5A-2E97-4B0A-B0CB-3EBA6164244F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
