@@ -273,6 +273,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PlusOne", "PlusOne\PlusOne.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "N-RepeatedElementInSize2NArray", "N-RepeatedElementInSize2NArray\N-RepeatedElementInSize2NArray.vcxproj", "{6448887A-45CC-46F1-B90C-80AFDDAFB84D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NumberOfWaysToPaintNx3Grid", "NumberOfWaysToPaintNx3Grid\NumberOfWaysToPaintNx3Grid.vcxproj", "{46E5E018-53A4-45B7-9F7A-432439CE2A0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1903,6 +1905,18 @@ Global
 		{6448887A-45CC-46F1-B90C-80AFDDAFB84D}.Release|x64.Build.0 = Release|x64
 		{6448887A-45CC-46F1-B90C-80AFDDAFB84D}.Release|x86.ActiveCfg = Release|Win32
 		{6448887A-45CC-46F1-B90C-80AFDDAFB84D}.Release|x86.Build.0 = Release|Win32
+		{46E5E018-53A4-45B7-9F7A-432439CE2A0F}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{46E5E018-53A4-45B7-9F7A-432439CE2A0F}.Debug|Any CPU.Build.0 = Debug|x64
+		{46E5E018-53A4-45B7-9F7A-432439CE2A0F}.Debug|x64.ActiveCfg = Debug|x64
+		{46E5E018-53A4-45B7-9F7A-432439CE2A0F}.Debug|x64.Build.0 = Debug|x64
+		{46E5E018-53A4-45B7-9F7A-432439CE2A0F}.Debug|x86.ActiveCfg = Debug|Win32
+		{46E5E018-53A4-45B7-9F7A-432439CE2A0F}.Debug|x86.Build.0 = Debug|Win32
+		{46E5E018-53A4-45B7-9F7A-432439CE2A0F}.Release|Any CPU.ActiveCfg = Release|x64
+		{46E5E018-53A4-45B7-9F7A-432439CE2A0F}.Release|Any CPU.Build.0 = Release|x64
+		{46E5E018-53A4-45B7-9F7A-432439CE2A0F}.Release|x64.ActiveCfg = Release|x64
+		{46E5E018-53A4-45B7-9F7A-432439CE2A0F}.Release|x64.Build.0 = Release|x64
+		{46E5E018-53A4-45B7-9F7A-432439CE2A0F}.Release|x86.ActiveCfg = Release|Win32
+		{46E5E018-53A4-45B7-9F7A-432439CE2A0F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
