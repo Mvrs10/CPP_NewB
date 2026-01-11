@@ -287,6 +287,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MaximumDotProductOfTwoSubse
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SmallestSubtreeWithAllTheDeepestNodes", "SmallestSubtreeWithAllTheDeepestNodes\SmallestSubtreeWithAllTheDeepestNodes.vcxproj", "{DB4B6522-EB30-4D5F-8456-A61DAB4CE2F4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MinimumASCIIDeleteSumForTwoStrings", "MinimumASCIIDeleteSumForTwoStrings\MinimumASCIIDeleteSumForTwoStrings.vcxproj", "{82C450E2-9359-4195-ABC0-4295D4395055}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -2001,6 +2003,18 @@ Global
 		{DB4B6522-EB30-4D5F-8456-A61DAB4CE2F4}.Release|x64.Build.0 = Release|x64
 		{DB4B6522-EB30-4D5F-8456-A61DAB4CE2F4}.Release|x86.ActiveCfg = Release|Win32
 		{DB4B6522-EB30-4D5F-8456-A61DAB4CE2F4}.Release|x86.Build.0 = Release|Win32
+		{82C450E2-9359-4195-ABC0-4295D4395055}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{82C450E2-9359-4195-ABC0-4295D4395055}.Debug|Any CPU.Build.0 = Debug|x64
+		{82C450E2-9359-4195-ABC0-4295D4395055}.Debug|x64.ActiveCfg = Debug|x64
+		{82C450E2-9359-4195-ABC0-4295D4395055}.Debug|x64.Build.0 = Debug|x64
+		{82C450E2-9359-4195-ABC0-4295D4395055}.Debug|x86.ActiveCfg = Debug|Win32
+		{82C450E2-9359-4195-ABC0-4295D4395055}.Debug|x86.Build.0 = Debug|Win32
+		{82C450E2-9359-4195-ABC0-4295D4395055}.Release|Any CPU.ActiveCfg = Release|x64
+		{82C450E2-9359-4195-ABC0-4295D4395055}.Release|Any CPU.Build.0 = Release|x64
+		{82C450E2-9359-4195-ABC0-4295D4395055}.Release|x64.ActiveCfg = Release|x64
+		{82C450E2-9359-4195-ABC0-4295D4395055}.Release|x64.Build.0 = Release|x64
+		{82C450E2-9359-4195-ABC0-4295D4395055}.Release|x86.ActiveCfg = Release|Win32
+		{82C450E2-9359-4195-ABC0-4295D4395055}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
