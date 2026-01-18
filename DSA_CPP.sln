@@ -299,6 +299,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MaximizeAreaOfSquareHoleInG
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MaximumSquareAreaByRemovingFencesFromAField", "MaximumSquareAreaByRemovingFencesFromAField\MaximumSquareAreaByRemovingFencesFromAField.vcxproj", "{033CC355-A36E-48AE-9A71-1E32E8E270FB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FindTheLargestAreaOfSquareInsideTwoRectangles", "FindTheLargestAreaOfSquareInsideTwoRectangles\FindTheLargestAreaOfSquareInsideTwoRectangles.vcxproj", "{8D290DD9-C1B4-48D6-A63A-C417774B9CD9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -2085,6 +2087,18 @@ Global
 		{033CC355-A36E-48AE-9A71-1E32E8E270FB}.Release|x64.Build.0 = Release|x64
 		{033CC355-A36E-48AE-9A71-1E32E8E270FB}.Release|x86.ActiveCfg = Release|Win32
 		{033CC355-A36E-48AE-9A71-1E32E8E270FB}.Release|x86.Build.0 = Release|Win32
+		{8D290DD9-C1B4-48D6-A63A-C417774B9CD9}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{8D290DD9-C1B4-48D6-A63A-C417774B9CD9}.Debug|Any CPU.Build.0 = Debug|x64
+		{8D290DD9-C1B4-48D6-A63A-C417774B9CD9}.Debug|x64.ActiveCfg = Debug|x64
+		{8D290DD9-C1B4-48D6-A63A-C417774B9CD9}.Debug|x64.Build.0 = Debug|x64
+		{8D290DD9-C1B4-48D6-A63A-C417774B9CD9}.Debug|x86.ActiveCfg = Debug|Win32
+		{8D290DD9-C1B4-48D6-A63A-C417774B9CD9}.Debug|x86.Build.0 = Debug|Win32
+		{8D290DD9-C1B4-48D6-A63A-C417774B9CD9}.Release|Any CPU.ActiveCfg = Release|x64
+		{8D290DD9-C1B4-48D6-A63A-C417774B9CD9}.Release|Any CPU.Build.0 = Release|x64
+		{8D290DD9-C1B4-48D6-A63A-C417774B9CD9}.Release|x64.ActiveCfg = Release|x64
+		{8D290DD9-C1B4-48D6-A63A-C417774B9CD9}.Release|x64.Build.0 = Release|x64
+		{8D290DD9-C1B4-48D6-A63A-C417774B9CD9}.Release|x86.ActiveCfg = Release|Win32
+		{8D290DD9-C1B4-48D6-A63A-C417774B9CD9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
