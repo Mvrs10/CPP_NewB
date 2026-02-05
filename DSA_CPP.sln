@@ -327,6 +327,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DivideAnArrayIntoSubarraysW
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TrionicArray1", "TrionicArray1\TrionicArray1.vcxproj", "{FC2D882E-D8E0-42EF-951F-2074FC7B6E9E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TransformedArray", "TransformedArray\TransformedArray.vcxproj", "{29BA6278-C6B4-4127-BE98-2A1A1D1D7C90}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -2281,6 +2283,18 @@ Global
 		{FC2D882E-D8E0-42EF-951F-2074FC7B6E9E}.Release|x64.Build.0 = Release|x64
 		{FC2D882E-D8E0-42EF-951F-2074FC7B6E9E}.Release|x86.ActiveCfg = Release|Win32
 		{FC2D882E-D8E0-42EF-951F-2074FC7B6E9E}.Release|x86.Build.0 = Release|Win32
+		{29BA6278-C6B4-4127-BE98-2A1A1D1D7C90}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{29BA6278-C6B4-4127-BE98-2A1A1D1D7C90}.Debug|Any CPU.Build.0 = Debug|x64
+		{29BA6278-C6B4-4127-BE98-2A1A1D1D7C90}.Debug|x64.ActiveCfg = Debug|x64
+		{29BA6278-C6B4-4127-BE98-2A1A1D1D7C90}.Debug|x64.Build.0 = Debug|x64
+		{29BA6278-C6B4-4127-BE98-2A1A1D1D7C90}.Debug|x86.ActiveCfg = Debug|Win32
+		{29BA6278-C6B4-4127-BE98-2A1A1D1D7C90}.Debug|x86.Build.0 = Debug|Win32
+		{29BA6278-C6B4-4127-BE98-2A1A1D1D7C90}.Release|Any CPU.ActiveCfg = Release|x64
+		{29BA6278-C6B4-4127-BE98-2A1A1D1D7C90}.Release|Any CPU.Build.0 = Release|x64
+		{29BA6278-C6B4-4127-BE98-2A1A1D1D7C90}.Release|x64.ActiveCfg = Release|x64
+		{29BA6278-C6B4-4127-BE98-2A1A1D1D7C90}.Release|x64.Build.0 = Release|x64
+		{29BA6278-C6B4-4127-BE98-2A1A1D1D7C90}.Release|x86.ActiveCfg = Release|Win32
+		{29BA6278-C6B4-4127-BE98-2A1A1D1D7C90}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
