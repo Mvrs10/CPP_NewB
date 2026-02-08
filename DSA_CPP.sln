@@ -333,6 +333,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MinimumRemovalsToBalanceArr
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MinimumDeletionsToMakeStringBalanced", "MinimumDeletionsToMakeStringBalanced\MinimumDeletionsToMakeStringBalanced.vcxproj", "{E8384B79-EE67-4524-A55F-51A7AFF22CFE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BalancedBinaryTree", "BalancedBinaryTree\BalancedBinaryTree.vcxproj", "{11A36051-1D15-45A3-A71B-D3EC2BC03512}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -2323,6 +2325,18 @@ Global
 		{E8384B79-EE67-4524-A55F-51A7AFF22CFE}.Release|x64.Build.0 = Release|x64
 		{E8384B79-EE67-4524-A55F-51A7AFF22CFE}.Release|x86.ActiveCfg = Release|Win32
 		{E8384B79-EE67-4524-A55F-51A7AFF22CFE}.Release|x86.Build.0 = Release|Win32
+		{11A36051-1D15-45A3-A71B-D3EC2BC03512}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{11A36051-1D15-45A3-A71B-D3EC2BC03512}.Debug|Any CPU.Build.0 = Debug|x64
+		{11A36051-1D15-45A3-A71B-D3EC2BC03512}.Debug|x64.ActiveCfg = Debug|x64
+		{11A36051-1D15-45A3-A71B-D3EC2BC03512}.Debug|x64.Build.0 = Debug|x64
+		{11A36051-1D15-45A3-A71B-D3EC2BC03512}.Debug|x86.ActiveCfg = Debug|Win32
+		{11A36051-1D15-45A3-A71B-D3EC2BC03512}.Debug|x86.Build.0 = Debug|Win32
+		{11A36051-1D15-45A3-A71B-D3EC2BC03512}.Release|Any CPU.ActiveCfg = Release|x64
+		{11A36051-1D15-45A3-A71B-D3EC2BC03512}.Release|Any CPU.Build.0 = Release|x64
+		{11A36051-1D15-45A3-A71B-D3EC2BC03512}.Release|x64.ActiveCfg = Release|x64
+		{11A36051-1D15-45A3-A71B-D3EC2BC03512}.Release|x64.Build.0 = Release|x64
+		{11A36051-1D15-45A3-A71B-D3EC2BC03512}.Release|x86.ActiveCfg = Release|Win32
+		{11A36051-1D15-45A3-A71B-D3EC2BC03512}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
