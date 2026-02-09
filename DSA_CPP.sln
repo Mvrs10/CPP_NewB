@@ -335,6 +335,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MinimumDeletionsToMakeStrin
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BalancedBinaryTree", "BalancedBinaryTree\BalancedBinaryTree.vcxproj", "{11A36051-1D15-45A3-A71B-D3EC2BC03512}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BalanceABinarySearchTree", "BalanceABinarySearchTree\BalanceABinarySearchTree.vcxproj", "{2BAD15A8-33E8-4DB7-8E4D-D7EE7CA53F95}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -2337,6 +2339,18 @@ Global
 		{11A36051-1D15-45A3-A71B-D3EC2BC03512}.Release|x64.Build.0 = Release|x64
 		{11A36051-1D15-45A3-A71B-D3EC2BC03512}.Release|x86.ActiveCfg = Release|Win32
 		{11A36051-1D15-45A3-A71B-D3EC2BC03512}.Release|x86.Build.0 = Release|Win32
+		{2BAD15A8-33E8-4DB7-8E4D-D7EE7CA53F95}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{2BAD15A8-33E8-4DB7-8E4D-D7EE7CA53F95}.Debug|Any CPU.Build.0 = Debug|x64
+		{2BAD15A8-33E8-4DB7-8E4D-D7EE7CA53F95}.Debug|x64.ActiveCfg = Debug|x64
+		{2BAD15A8-33E8-4DB7-8E4D-D7EE7CA53F95}.Debug|x64.Build.0 = Debug|x64
+		{2BAD15A8-33E8-4DB7-8E4D-D7EE7CA53F95}.Debug|x86.ActiveCfg = Debug|Win32
+		{2BAD15A8-33E8-4DB7-8E4D-D7EE7CA53F95}.Debug|x86.Build.0 = Debug|Win32
+		{2BAD15A8-33E8-4DB7-8E4D-D7EE7CA53F95}.Release|Any CPU.ActiveCfg = Release|x64
+		{2BAD15A8-33E8-4DB7-8E4D-D7EE7CA53F95}.Release|Any CPU.Build.0 = Release|x64
+		{2BAD15A8-33E8-4DB7-8E4D-D7EE7CA53F95}.Release|x64.ActiveCfg = Release|x64
+		{2BAD15A8-33E8-4DB7-8E4D-D7EE7CA53F95}.Release|x64.Build.0 = Release|x64
+		{2BAD15A8-33E8-4DB7-8E4D-D7EE7CA53F95}.Release|x86.ActiveCfg = Release|Win32
+		{2BAD15A8-33E8-4DB7-8E4D-D7EE7CA53F95}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
