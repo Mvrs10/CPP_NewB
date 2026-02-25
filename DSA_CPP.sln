@@ -355,6 +355,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BinaryGap", "BinaryGap\Bina
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CheckIfASubstringContainsAllBinaryCodesOfSizeK", "CheckIfASubstringContainsAllBinaryCodesOfSizeK\CheckIfASubstringContainsAllBinaryCodesOfSizeK.vcxproj", "{F54F23B6-69CE-4F6E-B303-52C6422A72EA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SumOfRootToLeafBinaryNumbers", "SumOfRootToLeafBinaryNumbers\SumOfRootToLeafBinaryNumbers.vcxproj", "{969EA029-7B1F-4D54-9654-D5575097C90C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -2477,6 +2479,18 @@ Global
 		{F54F23B6-69CE-4F6E-B303-52C6422A72EA}.Release|x64.Build.0 = Release|x64
 		{F54F23B6-69CE-4F6E-B303-52C6422A72EA}.Release|x86.ActiveCfg = Release|Win32
 		{F54F23B6-69CE-4F6E-B303-52C6422A72EA}.Release|x86.Build.0 = Release|Win32
+		{969EA029-7B1F-4D54-9654-D5575097C90C}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{969EA029-7B1F-4D54-9654-D5575097C90C}.Debug|Any CPU.Build.0 = Debug|x64
+		{969EA029-7B1F-4D54-9654-D5575097C90C}.Debug|x64.ActiveCfg = Debug|x64
+		{969EA029-7B1F-4D54-9654-D5575097C90C}.Debug|x64.Build.0 = Debug|x64
+		{969EA029-7B1F-4D54-9654-D5575097C90C}.Debug|x86.ActiveCfg = Debug|Win32
+		{969EA029-7B1F-4D54-9654-D5575097C90C}.Debug|x86.Build.0 = Debug|Win32
+		{969EA029-7B1F-4D54-9654-D5575097C90C}.Release|Any CPU.ActiveCfg = Release|x64
+		{969EA029-7B1F-4D54-9654-D5575097C90C}.Release|Any CPU.Build.0 = Release|x64
+		{969EA029-7B1F-4D54-9654-D5575097C90C}.Release|x64.ActiveCfg = Release|x64
+		{969EA029-7B1F-4D54-9654-D5575097C90C}.Release|x64.Build.0 = Release|x64
+		{969EA029-7B1F-4D54-9654-D5575097C90C}.Release|x86.ActiveCfg = Release|Win32
+		{969EA029-7B1F-4D54-9654-D5575097C90C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
