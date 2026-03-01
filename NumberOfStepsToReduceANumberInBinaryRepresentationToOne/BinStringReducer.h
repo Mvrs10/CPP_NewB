@@ -1,0 +1,19 @@
+#pragma once
+#include <string>
+
+static int numSteps(std::string s) {
+	int carry = 0;
+	int steps = 0;
+
+	for (int i = s.size() - 1; i >= 0; i--) {
+		if ((s[i] == '1' ? 1 : 0) + 1 == 1) {
+			steps += 2;
+			carry = 1;
+		}
+		else {
+			steps += 1;
+		}
+	}
+
+	return steps + carry;
+}
