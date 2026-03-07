@@ -369,6 +369,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SpecialPositionsInABinaryMa
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MinimumChangesToMakeAlternatingBinaryString", "MinimumChangesToMakeAlternatingBinaryString\MinimumChangesToMakeAlternatingBinaryString.vcxproj", "{7339C066-FD60-4647-9364-A3EC1EBF9035}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CheckIfBinaryStringHasAtMostOneSegmentOfOnes", "CheckIfBinaryStringHasAtMostOneSegmentOfOnes\CheckIfBinaryStringHasAtMostOneSegmentOfOnes.vcxproj", "{366E391C-9B72-4D0A-B9E4-38A2DC1DA812}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -2575,6 +2577,18 @@ Global
 		{7339C066-FD60-4647-9364-A3EC1EBF9035}.Release|x64.Build.0 = Release|x64
 		{7339C066-FD60-4647-9364-A3EC1EBF9035}.Release|x86.ActiveCfg = Release|Win32
 		{7339C066-FD60-4647-9364-A3EC1EBF9035}.Release|x86.Build.0 = Release|Win32
+		{366E391C-9B72-4D0A-B9E4-38A2DC1DA812}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{366E391C-9B72-4D0A-B9E4-38A2DC1DA812}.Debug|Any CPU.Build.0 = Debug|x64
+		{366E391C-9B72-4D0A-B9E4-38A2DC1DA812}.Debug|x64.ActiveCfg = Debug|x64
+		{366E391C-9B72-4D0A-B9E4-38A2DC1DA812}.Debug|x64.Build.0 = Debug|x64
+		{366E391C-9B72-4D0A-B9E4-38A2DC1DA812}.Debug|x86.ActiveCfg = Debug|Win32
+		{366E391C-9B72-4D0A-B9E4-38A2DC1DA812}.Debug|x86.Build.0 = Debug|Win32
+		{366E391C-9B72-4D0A-B9E4-38A2DC1DA812}.Release|Any CPU.ActiveCfg = Release|x64
+		{366E391C-9B72-4D0A-B9E4-38A2DC1DA812}.Release|Any CPU.Build.0 = Release|x64
+		{366E391C-9B72-4D0A-B9E4-38A2DC1DA812}.Release|x64.ActiveCfg = Release|x64
+		{366E391C-9B72-4D0A-B9E4-38A2DC1DA812}.Release|x64.Build.0 = Release|x64
+		{366E391C-9B72-4D0A-B9E4-38A2DC1DA812}.Release|x86.ActiveCfg = Release|Win32
+		{366E391C-9B72-4D0A-B9E4-38A2DC1DA812}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
