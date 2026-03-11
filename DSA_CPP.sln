@@ -375,6 +375,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MinimumNumberOfFlipsToMakeT
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FindUniqueBinaryString", "FindUniqueBinaryString\FindUniqueBinaryString.vcxproj", "{9D0DC073-F3BC-4305-A501-AD1B2B3ECF61}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ComplementOfBase10Integer", "ComplementOfBase10Integer\ComplementOfBase10Integer.vcxproj", "{B83B1B5B-9144-4A3C-A832-6D477A1E3FCC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -2617,6 +2619,18 @@ Global
 		{9D0DC073-F3BC-4305-A501-AD1B2B3ECF61}.Release|x64.Build.0 = Release|x64
 		{9D0DC073-F3BC-4305-A501-AD1B2B3ECF61}.Release|x86.ActiveCfg = Release|Win32
 		{9D0DC073-F3BC-4305-A501-AD1B2B3ECF61}.Release|x86.Build.0 = Release|Win32
+		{B83B1B5B-9144-4A3C-A832-6D477A1E3FCC}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{B83B1B5B-9144-4A3C-A832-6D477A1E3FCC}.Debug|Any CPU.Build.0 = Debug|x64
+		{B83B1B5B-9144-4A3C-A832-6D477A1E3FCC}.Debug|x64.ActiveCfg = Debug|x64
+		{B83B1B5B-9144-4A3C-A832-6D477A1E3FCC}.Debug|x64.Build.0 = Debug|x64
+		{B83B1B5B-9144-4A3C-A832-6D477A1E3FCC}.Debug|x86.ActiveCfg = Debug|Win32
+		{B83B1B5B-9144-4A3C-A832-6D477A1E3FCC}.Debug|x86.Build.0 = Debug|Win32
+		{B83B1B5B-9144-4A3C-A832-6D477A1E3FCC}.Release|Any CPU.ActiveCfg = Release|x64
+		{B83B1B5B-9144-4A3C-A832-6D477A1E3FCC}.Release|Any CPU.Build.0 = Release|x64
+		{B83B1B5B-9144-4A3C-A832-6D477A1E3FCC}.Release|x64.ActiveCfg = Release|x64
+		{B83B1B5B-9144-4A3C-A832-6D477A1E3FCC}.Release|x64.Build.0 = Release|x64
+		{B83B1B5B-9144-4A3C-A832-6D477A1E3FCC}.Release|x86.ActiveCfg = Release|Win32
+		{B83B1B5B-9144-4A3C-A832-6D477A1E3FCC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
