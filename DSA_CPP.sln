@@ -387,6 +387,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LargestSubmatrixWithRearran
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CountSubmatricesWithTopLeftElementAndSumLessThanK", "CountSubmatricesWithTopLeftElementAndSumLessThanK\CountSubmatricesWithTopLeftElementAndSumLessThanK.vcxproj", "{F390C055-703D-4635-8179-DB3D990FCCAD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CountMatricesWithEqualFrequencyOfXAndY", "CountMatricesWithEqualFrequencyOfXAndY\CountMatricesWithEqualFrequencyOfXAndY.vcxproj", "{DEAD32A4-5370-452B-A718-49A8F1BC4AA3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -2701,6 +2703,18 @@ Global
 		{F390C055-703D-4635-8179-DB3D990FCCAD}.Release|x64.Build.0 = Release|x64
 		{F390C055-703D-4635-8179-DB3D990FCCAD}.Release|x86.ActiveCfg = Release|Win32
 		{F390C055-703D-4635-8179-DB3D990FCCAD}.Release|x86.Build.0 = Release|Win32
+		{DEAD32A4-5370-452B-A718-49A8F1BC4AA3}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{DEAD32A4-5370-452B-A718-49A8F1BC4AA3}.Debug|Any CPU.Build.0 = Debug|x64
+		{DEAD32A4-5370-452B-A718-49A8F1BC4AA3}.Debug|x64.ActiveCfg = Debug|x64
+		{DEAD32A4-5370-452B-A718-49A8F1BC4AA3}.Debug|x64.Build.0 = Debug|x64
+		{DEAD32A4-5370-452B-A718-49A8F1BC4AA3}.Debug|x86.ActiveCfg = Debug|Win32
+		{DEAD32A4-5370-452B-A718-49A8F1BC4AA3}.Debug|x86.Build.0 = Debug|Win32
+		{DEAD32A4-5370-452B-A718-49A8F1BC4AA3}.Release|Any CPU.ActiveCfg = Release|x64
+		{DEAD32A4-5370-452B-A718-49A8F1BC4AA3}.Release|Any CPU.Build.0 = Release|x64
+		{DEAD32A4-5370-452B-A718-49A8F1BC4AA3}.Release|x64.ActiveCfg = Release|x64
+		{DEAD32A4-5370-452B-A718-49A8F1BC4AA3}.Release|x64.Build.0 = Release|x64
+		{DEAD32A4-5370-452B-A718-49A8F1BC4AA3}.Release|x86.ActiveCfg = Release|Win32
+		{DEAD32A4-5370-452B-A718-49A8F1BC4AA3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
